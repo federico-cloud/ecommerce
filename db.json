@@ -1,0 +1,527 @@
+{
+  "categories": [
+    { "id": 1, "name": "Gaming laptop" },
+    { "id": 2, "name": "Business laptop" },
+    { "id": 3, "name": "Accesories" },
+    { "id": 4, "name": "RAM memory" },
+    { "id": 5, "name": "Processors" },
+    { "id": 6, "name": "PC case" },
+    { "id": 7, "name": "Power supply" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "model": "MacBook Air (M2, 2022)",
+      "screen": "13.6-inch Liquid Retina (2560x1664 pixels)",
+      "processor": "Apple M2",
+      "ram": "8 GB (configurable up to 24 GB)",
+      "storage": "256 GB SSD (configurable up to 2 TB)",
+      "graphics": "8-core GPU",
+      "weight": "1.24 kg",
+      "battery": "Up to 18 hours",
+      "others": ["MagSafe charging", "Touch ID", "1080p Camera"],
+      "manufacturer": "Apple",
+      "category": "Business laptop",
+      "images": [
+        "https://i.blogs.es/d3538e/macbookairm2/1366_2000.jpeg",
+        "https://i.blogs.es/545aae/magsafe/1366_2000.jpeg",
+        "https://i.blogs.es/8cf723/teclado/1366_2000.jpeg",
+        "https://f.rpp-noticias.io/2021/11/12/1173216dmitry-chernyshov-mp7apsum7ae-unsplashjpg.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "model": "MacBook Pro (14-inch, M2 Pro, 2023)",
+      "screen": "14.2-inch Liquid Retina XDR (3024x1964 pixels)",
+      "processor": "Apple M2 Pro (10-core CPU, 16-core GPU)",
+      "ram": "16 GB (configurable up to 64 GB)",
+      "storage": "512 GB SSD (configurable up to 8 TB)",
+      "graphics": "16-core GPU",
+      "weight": "1.6 kg",
+      "battery": "Up to 18 hours",
+      "others": ["ProMotion (120Hz)", "1080p Camera", "Touch ID", "MagSafe charging"],
+      "manufacturer": "Apple",
+      "category": "Business laptop",
+      "images": [
+        "https://m.media-amazon.com/images/I/61lYIKPieDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/617OM0ij7ZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gor+j2TLL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "model": "MacBook Pro (16-inch, M2 Max, 2023)",
+      "screen": "16.2-inch Liquid Retina XDR (3456x2234 pixels)",
+      "processor": "Apple M2 Max (12-core CPU, 38-core GPU)",
+      "ram": "32 GB (configurable up to 96 GB)",
+      "storage": "1 TB SSD (configurable up to 8 TB)",
+      "graphics": "38-core GPU",
+      "weight": "2.1 kg",
+      "battery": "Up to 22 hours",
+      "others": ["ProMotion (120Hz)", "1080p Camera", "Touch ID", "MagSafe charging"],
+      "manufacturer": "Apple",
+      "category": "Business laptop",
+      "images": [
+        "https://m.media-amazon.com/images/I/61V-sJRj33L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6195U0WuDkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71duvgDM3lL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "model": "MacBook Air (M1, 2020)",
+      "screen": "13.3-inch Retina (2560x1600 pixels)",
+      "processor": "Apple M1 (8 cores)",
+      "ram": "8 GB (configurable up to 16 GB)",
+      "storage": "256 GB SSD (configurable up to 2 TB)",
+      "graphics": "7-core GPU",
+      "weight": "1.29 kg",
+      "battery": "Up to 18 hours",
+      "others": ["Touch ID", "720p Camera"],
+      "manufacturer": "Apple",
+      "category": "Business laptop",
+      "images": [
+        "https://m.media-amazon.com/images/I/31TIRwCLTDL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/111f3i7A-mL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41uXuJeGHTL._AC_.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "model": "MacBook Pro (13-inch, M2, 2022)",
+      "screen": "13.3-inch Retina (2560x1600 pixels)",
+      "processor": "Apple M2 (8-core CPU, 10-core GPU)",
+      "ram": "8 GB (configurable up to 24 GB)",
+      "storage": "256 GB SSD (configurable up to 2 TB)",
+      "graphics": "10-core GPU",
+      "weight": "1.4 kg",
+      "battery": "Up to 20 hours",
+      "others": ["Touch Bar", "Touch ID", "720p Camera"],
+      "manufacturer": "Apple",
+      "category": "Business laptop",
+      "images": [
+        "https://m.media-amazon.com/images/I/41muCOpYRwL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/41fUEF3bsGL._AC_SX425_.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "model": "ASUS ZenBook 14 (2023)",
+      "screen": "14-inch Full HD (1920x1080 pixels)",
+      "processor": "Intel Core i7-1260P",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "graphics": "Intel Iris Xe",
+      "weight": "1.39 kg",
+      "battery": "Up to 16 hours",
+      "others": ["Backlit Keyboard", "NumberPad 2.0", "720p HD Camera"],
+      "manufacturer": "ASUS",
+      "category": "Business laptop",
+      "images": [
+        "https://m.media-amazon.com/images/I/61BWf8zB2GL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71V7haL7I3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Bsx93Q8wL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "model": "ASUS ROG Strix G15 (2022)",
+      "screen": "15.6-inch Full HD (1920x1080 pixels), 144Hz",
+      "processor": "AMD Ryzen 9 5900HX",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA GeForce RTX 3070",
+      "weight": "2.1 kg",
+      "battery": "Up to 10 hours",
+      "others": ["RGB Backlit Keyboard", "Adaptive-Sync", "720p HD Camera"],
+      "manufacturer": "ASUS",
+      "category": "Gaming Laptop",
+      "images": [
+        "https://dlcdnwebimgs.asus.com/gain/6D1F9EF4-02D6-455B-9D43-348275816538/w1000/h732",
+        "https://dlcdnwebimgs.asus.com/gain/DEB856EF-2E80-40F3-BE53-EE5DBBABEC93/w1000/h732",
+        "https://dlcdnwebimgs.asus.com/gain/D336705A-46C9-405F-9A01-D8F5EDD6B11E/w1000/h732"
+      ]
+    },
+    {
+      "id": 8,
+      "model": "ASUS VivoBook S15 (2023)",
+      "screen": "15.6-inch Full HD (1920x1080 pixels)",
+      "processor": "Intel Core i5-1235U",
+      "ram": "8 GB",
+      "storage": "512 GB SSD",
+      "graphics": "Intel Iris Xe",
+      "weight": "1.8 kg",
+      "battery": "Up to 12 hours",
+      "others": ["Fingerprint Sensor", "Backlit Keyboard", "720p HD Camera"],
+      "manufacturer": "ASUS",
+      "category": "Business laptop",
+      "images": [
+        "https://m.media-amazon.com/images/I/71hbhqTUnAL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/712rinSCumL._SX679_.jpg",
+        "https://images.expertreviews.co.uk/wp-content/uploads/2023/08/asus_vivobook_s15_oled_laptop_4.jpg?width=1200&height=675&fit=crop&format=webply"
+      ]
+    },
+    {
+      "id": 9,
+      "model": "ASUS TUF Gaming F15 (2022)",
+      "screen": "15.6-inch Full HD (1920x1080 pixels), 144Hz",
+      "processor": "Intel Core i7-12700H",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA GeForce RTX 3060",
+      "weight": "2.3 kg",
+      "battery": "Up to 8 hours",
+      "others": ["RGB Backlit Keyboard", "MIL-STD-810H Durability", "720p HD Camera"],
+      "manufacturer": "ASUS",
+      "category": "Gaming Laptop",
+      "images": [
+        "https://dlcdnwebimgs.asus.com/gain/56ad63d6-05c5-41b8-b167-b70ac4ec2644/w800",
+        "https://m.media-amazon.com/images/I/71aPNoZzXGL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71V03U+Qc8L._AC_SX466_.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "model": "ASUS ExpertBook B9 (2023)",
+      "screen": "14-inch Full HD (1920x1080 pixels)",
+      "processor": "Intel Core i7-1255U",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "graphics": "Intel Iris Xe",
+      "weight": "0.88 kg",
+      "battery": "Up to 24 hours",
+      "others": ["Backlit Keyboard", "NumberPad 2.0", "720p HD Camera"],
+      "manufacturer": "ASUS",
+      "category": "Business Laptop",
+      "images": [
+        "https://m.media-amazon.com/images/I/71vzR9GLvTL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://dlcdnwebimgs.asus.com/gain/6f69a601-87ea-42a9-9dfa-22224440403c/w800/fwebp",
+        "https://www.asus.com/laptops/for-work/expertbook/expertbook-b9-oled-b9403-13th-gen-intel/"
+      ]
+    },
+    {
+      "id": 11,
+      "model": "Logitech MX Master 3S",
+      "type": "Mouse",
+      "features": ["Wireless", "Ergonomic", "Bluetooth"],
+      "manufacturer": "Logitech",
+      "category": "Accesories",
+      "images": [
+        "https://images.logitech.com/image/upload/f_auto,q_auto:best,c_fill,w_1500,h_1500/logitech/mx-master-3s/mx_master_3s_hero_1.png",
+        "https://images.logitech.com/image/upload/f_auto,q_auto:best,c_fill,w_1500,h_1500/logitech/mx-master-3s/mx_master_3s_hero_2.png"
+      ]
+    },
+    {
+      "id": 12,
+      "model": "Apple AirPods Pro",
+      "type": "Headphones",
+      "features": ["Active Noise Cancellation", "Wireless Charging Case", "Transparency Mode"],
+      "manufacturer": "Apple",
+      "category": "Accesories",
+      "images": [
+        "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2022-gallery1?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1689304172336",
+        "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2022-gallery2?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1689304172329"
+      ]
+    },
+    {
+      "id": 13,
+      "model": "Anker PowerCore 10000",
+      "type": "Portable Charger",
+      "features": ["10000mAh", "Compact", "Fast Charging"],
+      "manufacturer": "Anker",
+      "category": "Accesories",
+      "images": [
+        "https://images.anker.com/anker-products/1039/1.jpg",
+        "https://images.anker.com/anker-products/1039/2.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "model": "Samsung T7 Portable SSD",
+      "type": "External Storage",
+      "features": ["1TB", "USB 3.2 Gen 2", "Shock Resistant"],
+      "manufacturer": "Samsung",
+      "category": "Accesories",
+      "images": [
+        "https://images.samsung.com/is/image/samsung/p6q81_1_t7_portable_ssd_1tb_black_4.jpg",
+        "https://images.samsung.com/is/image/samsung/p6q81_2_t7_portable_ssd_1tb_black_4.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "model": "Hama USB Hub",
+      "type": "USB Hub",
+      "features": ["4 Ports", "USB 3.0", "Compact Design"],
+      "manufacturer": "Hama",
+      "category": "Accesories",
+      "images": [
+        "https://images.hama.com/products/1234/1.jpg",
+        "https://images.hama.com/products/1234/2.jpg"
+      ]
+    }, {
+      "id": 21,
+      "model": "Corsair Vengeance LPX 16GB",
+      "type": "RAM",
+      "features": ["DDR4", "3200MHz", "Heat Spreader"],
+      "manufacturer": "Corsair",
+      "category": "RAM memory",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h1c/hda/8843172945102/CMK16GX4M2B3200C16-02.png",
+        "https://www.corsair.com/medias/sys_master/images/images/h8d/h67/9081331130382/CMK16GX4M2B3200C16-03.png"
+      ]
+    },
+    {
+      "id": 22,
+      "model": "G.Skill Ripjaws V 16GB",
+      "type": "RAM",
+      "features": ["DDR4", "3600MHz", "Low Latency"],
+      "manufacturer": "G.Skill",
+      "category": "RAM memory",
+      "images": [
+        "https://www.gskill.com/images/product/Ripjaws_V_RGB_1.png",
+        "https://www.gskill.com/images/product/Ripjaws_V_RGB_2.png"
+      ]
+    },
+    {
+      "id": 23,
+      "model": "Kingston HyperX Fury 16GB",
+      "type": "RAM",
+      "features": ["DDR4", "2666MHz", "Plug and Play"],
+      "manufacturer": "Kingston",
+      "category": "RAM memory",
+      "images": [
+        "https://www.kingston.com/images/products/ram/16gb_fury.png",
+        "https://www.kingston.com/images/products/ram/16gb_fury_2.png"
+      ]
+    },
+    {
+      "id": 24,
+      "model": "Crucial Ballistix 16GB",
+      "type": "RAM",
+      "features": ["DDR4", "3200MHz", "High Performance"],
+      "manufacturer": "Crucial",
+      "category": "RAM memory",
+      "images": [
+        "https://www.crucial.com/images/products/ballistix.png",
+        "https://www.crucial.com/images/products/ballistix_2.png"
+      ]
+    },
+    {
+      "id": 25,
+      "model": "Patriot Viper Steel 16GB",
+      "type": "RAM",
+      "features": ["DDR4", "3000MHz", "Aluminum Heat Shield"],
+      "manufacturer": "Patriot",
+      "category": "RAM memory",
+      "images": [
+        "https://www.patriotmemory.com/images/products/viper_steel.png",
+        "https://www.patriotmemory.com/images/products/viper_steel_2.png"
+      ]
+    },{
+      "id": 31,
+      "model": "Intel Core i9-13900K",
+      "type": "Processor",
+      "features": ["16 Cores", "24 Threads", "5.8 GHz Turbo Boost"],
+      "manufacturer": "Intel",
+      "category": "Processors",
+      "images": [
+        "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i9-13900k-hero-04.png",
+        "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i9-13900k-hero-02.png"
+      ]
+    },
+    {
+      "id": 32,
+      "model": "AMD Ryzen 7 7800X",
+      "type": "Processor",
+      "features": ["8 Cores", "16 Threads", "5.0 GHz Max Boost"],
+      "manufacturer": "AMD",
+      "category": "Processors",
+      "images": [
+        "https://www.amd.com/system/files/2022/11/amd-ryzen-7-7800x-1.png",
+        "https://www.amd.com/system/files/2022/11/amd-ryzen-7-7800x-2.png"
+      ]
+    },
+    {
+      "id": 33,
+      "model": "Intel Core i5-13600K",
+      "type": "Processor",
+      "features": ["14 Cores", "20 Threads", "5.1 GHz Turbo Boost"],
+      "manufacturer": "Intel",
+      "category": "Processors",
+      "images": [
+        "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i5-13600k-hero-01.png",
+        "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i5-13600k-hero-02.png"
+      ]
+    },
+    {
+      "id": 34,
+      "model": "AMD Ryzen 5 7600X",
+      "type": "Processor",
+      "features": ["6 Cores", "12 Threads", "4.7 GHz Max Boost"],
+      "manufacturer": "AMD",
+      "category": "Processors",
+      "images": [
+        "https://www.amd.com/system/files/2022/11/amd-ryzen-5-7600x-1.png",
+        "https://www.amd.com/system/files/2022/11/amd-ryzen-5-7600x-2.png"
+      ]
+    },
+    {
+      "id": 35,
+      "model": "Intel Core i7-13700K",
+      "type": "Processor",
+      "features": ["16 Cores", "24 Threads", "5.4 GHz Turbo Boost"],
+      "manufacturer": "Intel",
+      "category": "Processors",
+      "images": [
+        "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i7-13700k-hero-01.png",
+        "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i7-13700k-hero-02.png"
+      ]
+    },
+    {
+      "id": 41,
+      "model": "NZXT H510",
+      "type": "PC Case",
+      "features": ["Mid Tower", "Tempered Glass", "Cable Management"],
+      "manufacturer": "NZXT",
+      "category": "PC case",
+      "images": [
+        "https://www.nzxt.com/images/harper/h510_white/1.jpg",
+        "https://www.nzxt.com/images/harper/h510_white/2.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "model": "Fractal Design Meshify C",
+      "type": "PC Case",
+      "features": ["Mid Tower", "Mesh Front Panel", "Excellent Airflow"],
+      "manufacturer": "Fractal Design",
+      "category": "PC case",
+      "images": [
+        "https://www.fractal-design.com/wp-content/uploads/2017/07/meshify-c_black_2.png",
+        "https://www.fractal-design.com/wp-content/uploads/2017/07/meshify-c_black_1.png"
+      ]
+    },
+    {
+      "id": 43,
+      "model": "Corsair 4000D Airflow",
+      "type": "PC Case",
+      "features": ["Mid Tower", "High Airflow", "Modern Design"],
+      "manufacturer": "Corsair",
+      "category": "PC case",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/hfc/hf1/8845123930266/4000D-AIRFLOW-3.png",
+        "https://www.corsair.com/medias/sys_master/images/images/h45/hf7/8845123930266/4000D-AIRFLOW-1.png"
+      ]
+    },
+    {
+      "id": 44,
+      "model": "Phanteks Eclipse P400A",
+      "type": "PC Case",
+      "features": ["Mid Tower", "ARGB Lighting", "Tempered Glass"],
+      "manufacturer": "Phanteks",
+      "category": "PC case",
+      "images": [
+        "https://www.phanteks.com/Products/Case/Eclipse/P400A/2.png",
+        "https://www.phanteks.com/Products/Case/Eclipse/P400A/1.png"
+      ]
+    },
+    {
+      "id": 45,
+      "model": "Lian Li PC-O11 Dynamic",
+      "type": "PC Case",
+      "features": ["Mid Tower", "Dual Chamber", "Tempered Glass Panels"],
+      "manufacturer": "Lian Li",
+      "category": "PC case",
+      "images": [
+        "https://www.lian-li.com/wp-content/uploads/2020/02/pc-o11-dynamic-3.png",
+        "https://www.lian-li.com/wp-content/uploads/2020/02/pc-o11-dynamic-2.png"
+      ]
+    },
+    {
+      "id": 51,
+      "model": "EVGA SuperNOVA 650 G5",
+      "type": "Power Supply",
+      "features": ["650W", "80 Plus Gold", "Fully Modular"],
+      "manufacturer": "EVGA",
+      "category": "Power supply",
+      "images": [
+        "https://www.evga.com/products/images/gpu/220-G5-0650-X1/220-G5-0650-X1_01.jpg",
+        "https://www.evga.com/products/images/gpu/220-G5-0650-X1/220-G5-0650-X1_02.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "model": "Corsair RM750x",
+      "type": "Power Supply",
+      "features": ["750W", "80 Plus Gold", "Fully Modular"],
+      "manufacturer": "Corsair",
+      "category": "Power supply",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h62/h3b/8843282184582/RM750x_2.png",
+        "https://www.corsair.com/medias/sys_master/images/images/h36/h8e/8843282184582/RM750x_1.png"
+      ]
+    },
+    {
+      "id": 53,
+      "model": "Seasonic Focus GX-650",
+      "type": "Power Supply",
+      "features": ["650W", "80 Plus Gold", "Fully Modular"],
+      "manufacturer": "Seasonic",
+      "category": "Power supply",
+      "images": [
+        "https://seasonic.com/wp-content/uploads/2021/04/Focus-GX-650-1.jpg",
+        "https://seasonic.com/wp-content/uploads/2021/04/Focus-GX-650-2.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "model": "Be Quiet! Straight Power 11",
+      "type": "Power Supply",
+      "features": ["750W", "80 Plus Platinum", "Fully Modular"],
+      "manufacturer": "Be Quiet!",
+      "category": "Power supply",
+      "images": [
+        "https://www.bequiet.com/image/product/straight_power_11_750w/1.jpg",
+        "https://www.bequiet.com/image/product/straight_power_11_750w/2.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "model": "Thermaltake Toughpower GF1",
+      "type": "Power Supply",
+      "features": ["650W", "80 Plus Gold", "Fully Modular"],
+      "manufacturer": "Thermaltake",
+      "category": "Power supply",
+      "images": [
+        "https://www.thermaltake.com/images/products/toughpower_gf1_650w_1.jpg",
+        "https://www.thermaltake.com/images/products/toughpower_gf1_650w_2.jpg"
+      ]
+    }
+  ],
+  "users": [
+    { "id": 1, "name": "Juan Perez", "email": "juan.perez@example.com" },
+    { "id": 2, "name": "Maria Gomez", "email": "maria.gomez@example.com" }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        { "productId": 1, "quantity": 1 },
+        { "productId": 5, "quantity": 2 }
+      ],
+      "total": 2600,
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "products": [
+        { "productId": 3, "quantity": 1 },
+        { "productId": 6, "quantity": 1 }
+      ],
+      "total": 1300,
+      "status": "pending"
+    }
+  ]
+}

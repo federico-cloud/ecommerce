@@ -1,0 +1,19 @@
+{
+  "source": {
+    "include": ["src"],
+    "exclude": ["node_modules"],
+    "includePattern": ".+\\.tsx?$",
+    "excludePattern": "(node_module|docs)"
+  },
+  "opts": {
+    "destination": "./docs",
+    "recurse": true,
+    "readme": "README.md"
+  },
+  "plugins": [
+    "node_modules/jsdoc-plugin-typescript"
+  ],
+  "typescript": {
+    "tsconfig": "tsconfig.json"
+  }
+}
