@@ -22,6 +22,8 @@
       "others": ["MagSafe charging", "Touch ID", "1080p Camera"],
       "manufacturer": "Apple",
       "category": "Business laptop",
+      "stock": 20,
+      "price": 2000,
       "images": [
         "https://i.blogs.es/d3538e/macbookairm2/1366_2000.jpeg",
         "https://i.blogs.es/545aae/magsafe/1366_2000.jpeg",
@@ -42,6 +44,8 @@
       "others": ["ProMotion (120Hz)", "1080p Camera", "Touch ID", "MagSafe charging"],
       "manufacturer": "Apple",
       "category": "Business laptop",
+      "stock": 25,
+      "price": 1850,
       "images": [
         "https://m.media-amazon.com/images/I/61lYIKPieDL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/617OM0ij7ZL._AC_SL1500_.jpg",
@@ -61,6 +65,8 @@
       "others": ["ProMotion (120Hz)", "1080p Camera", "Touch ID", "MagSafe charging"],
       "manufacturer": "Apple",
       "category": "Business laptop",
+      "stock": 32,
+      "price": 2500,
       "images": [
         "https://m.media-amazon.com/images/I/61V-sJRj33L._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/6195U0WuDkL._AC_SL1500_.jpg",
@@ -80,6 +86,8 @@
       "others": ["Touch ID", "720p Camera"],
       "manufacturer": "Apple",
       "category": "Business laptop",
+      "stock": 5,
+      "price": 1500,
       "images": [
         "https://m.media-amazon.com/images/I/31TIRwCLTDL._AC_.jpg",
         "https://m.media-amazon.com/images/I/111f3i7A-mL._AC_.jpg",
@@ -99,6 +107,8 @@
       "others": ["Touch Bar", "Touch ID", "720p Camera"],
       "manufacturer": "Apple",
       "category": "Business laptop",
+      "stock": 3,
+      "price": 1650,
       "images": [
         "https://m.media-amazon.com/images/I/41muCOpYRwL._AC_.jpg",
         "https://m.media-amazon.com/images/I/41fUEF3bsGL._AC_SX425_.jpg"
@@ -117,6 +127,8 @@
       "others": ["Backlit Keyboard", "NumberPad 2.0", "720p HD Camera"],
       "manufacturer": "ASUS",
       "category": "Business laptop",
+      "stock": 50,
+      "price": 1850,
       "images": [
         "https://m.media-amazon.com/images/I/61BWf8zB2GL._AC_SL1000_.jpg",
         "https://m.media-amazon.com/images/I/71V7haL7I3L._AC_SL1500_.jpg",
@@ -136,6 +148,8 @@
       "others": ["RGB Backlit Keyboard", "Adaptive-Sync", "720p HD Camera"],
       "manufacturer": "ASUS",
       "category": "Gaming Laptop",
+      "stock": 10,
+      "price": 2500,
       "images": [
         "https://dlcdnwebimgs.asus.com/gain/6D1F9EF4-02D6-455B-9D43-348275816538/w1000/h732",
         "https://dlcdnwebimgs.asus.com/gain/DEB856EF-2E80-40F3-BE53-EE5DBBABEC93/w1000/h732",
@@ -155,6 +169,8 @@
       "others": ["Fingerprint Sensor", "Backlit Keyboard", "720p HD Camera"],
       "manufacturer": "ASUS",
       "category": "Business laptop",
+      "stock": 15,
+      "price": 1400,
       "images": [
         "https://m.media-amazon.com/images/I/71hbhqTUnAL._SX679_.jpg",
         "https://m.media-amazon.com/images/I/712rinSCumL._SX679_.jpg",
@@ -174,6 +190,8 @@
       "others": ["RGB Backlit Keyboard", "MIL-STD-810H Durability", "720p HD Camera"],
       "manufacturer": "ASUS",
       "category": "Gaming Laptop",
+      "stock": 25,
+      "price": 1900,
       "images": [
         "https://dlcdnwebimgs.asus.com/gain/56ad63d6-05c5-41b8-b167-b70ac4ec2644/w800",
         "https://m.media-amazon.com/images/I/71aPNoZzXGL._AC_SX466_.jpg",
@@ -193,6 +211,8 @@
       "others": ["Backlit Keyboard", "NumberPad 2.0", "720p HD Camera"],
       "manufacturer": "ASUS",
       "category": "Business Laptop",
+      "stock": 15,
+      "price": 1300,
       "images": [
         "https://m.media-amazon.com/images/I/71vzR9GLvTL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
         "https://dlcdnwebimgs.asus.com/gain/6f69a601-87ea-42a9-9dfa-22224440403c/w800/fwebp",
@@ -206,6 +226,8 @@
       "features": ["Wireless", "Ergonomic", "Bluetooth"],
       "manufacturer": "Logitech",
       "category": "Accesories",
+      "stock": 50,
+      "price": 100,
       "images": [
         "https://images.logitech.com/image/upload/f_auto,q_auto:best,c_fill,w_1500,h_1500/logitech/mx-master-3s/mx_master_3s_hero_1.png",
         "https://images.logitech.com/image/upload/f_auto,q_auto:best,c_fill,w_1500,h_1500/logitech/mx-master-3s/mx_master_3s_hero_2.png"
@@ -218,6 +240,8 @@
       "features": ["Active Noise Cancellation", "Wireless Charging Case", "Transparency Mode"],
       "manufacturer": "Apple",
       "category": "Accesories",
+      "stock": 50,
+      "price": 600,
       "images": [
         "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2022-gallery1?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1689304172336",
         "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2022-gallery2?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1689304172329"
@@ -230,6 +254,8 @@
       "features": ["10000mAh", "Compact", "Fast Charging"],
       "manufacturer": "Anker",
       "category": "Accesories",
+      "stock": 100,
+      "price": 500,
       "images": [
         "https://images.anker.com/anker-products/1039/1.jpg",
         "https://images.anker.com/anker-products/1039/2.jpg"
@@ -242,6 +268,8 @@
       "features": ["1TB", "USB 3.2 Gen 2", "Shock Resistant"],
       "manufacturer": "Samsung",
       "category": "Accesories",
+      "stock": 100,
+      "price": 200,
       "images": [
         "https://images.samsung.com/is/image/samsung/p6q81_1_t7_portable_ssd_1tb_black_4.jpg",
         "https://images.samsung.com/is/image/samsung/p6q81_2_t7_portable_ssd_1tb_black_4.jpg"
@@ -254,6 +282,8 @@
       "features": ["4 Ports", "USB 3.0", "Compact Design"],
       "manufacturer": "Hama",
       "category": "Accesories",
+      "stock": 200,
+      "price": 250,
       "images": [
         "https://images.hama.com/products/1234/1.jpg",
         "https://images.hama.com/products/1234/2.jpg"
@@ -265,6 +295,8 @@
       "features": ["DDR4", "3200MHz", "Heat Spreader"],
       "manufacturer": "Corsair",
       "category": "RAM memory",
+      "stock": 50,
+      "price": 150,
       "images": [
         "https://www.corsair.com/medias/sys_master/images/images/h1c/hda/8843172945102/CMK16GX4M2B3200C16-02.png",
         "https://www.corsair.com/medias/sys_master/images/images/h8d/h67/9081331130382/CMK16GX4M2B3200C16-03.png"
@@ -277,6 +309,8 @@
       "features": ["DDR4", "3600MHz", "Low Latency"],
       "manufacturer": "G.Skill",
       "category": "RAM memory",
+      "stock": 15,
+      "price": 250,
       "images": [
         "https://www.gskill.com/images/product/Ripjaws_V_RGB_1.png",
         "https://www.gskill.com/images/product/Ripjaws_V_RGB_2.png"
@@ -289,6 +323,8 @@
       "features": ["DDR4", "2666MHz", "Plug and Play"],
       "manufacturer": "Kingston",
       "category": "RAM memory",
+      "stock": 200,
+      "price": 80,
       "images": [
         "https://www.kingston.com/images/products/ram/16gb_fury.png",
         "https://www.kingston.com/images/products/ram/16gb_fury_2.png"
@@ -301,6 +337,8 @@
       "features": ["DDR4", "3200MHz", "High Performance"],
       "manufacturer": "Crucial",
       "category": "RAM memory",
+      "stock": 9,
+      "price": 120,
       "images": [
         "https://www.crucial.com/images/products/ballistix.png",
         "https://www.crucial.com/images/products/ballistix_2.png"
@@ -313,6 +351,8 @@
       "features": ["DDR4", "3000MHz", "Aluminum Heat Shield"],
       "manufacturer": "Patriot",
       "category": "RAM memory",
+      "stock": 21,
+      "price": 180,
       "images": [
         "https://www.patriotmemory.com/images/products/viper_steel.png",
         "https://www.patriotmemory.com/images/products/viper_steel_2.png"
@@ -324,6 +364,8 @@
       "features": ["16 Cores", "24 Threads", "5.8 GHz Turbo Boost"],
       "manufacturer": "Intel",
       "category": "Processors",
+      "stock": 25,
+      "price": 700,
       "images": [
         "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i9-13900k-hero-04.png",
         "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i9-13900k-hero-02.png"
@@ -336,6 +378,8 @@
       "features": ["8 Cores", "16 Threads", "5.0 GHz Max Boost"],
       "manufacturer": "AMD",
       "category": "Processors",
+      "stock": 50,
+      "price": 600,
       "images": [
         "https://www.amd.com/system/files/2022/11/amd-ryzen-7-7800x-1.png",
         "https://www.amd.com/system/files/2022/11/amd-ryzen-7-7800x-2.png"
@@ -348,6 +392,8 @@
       "features": ["14 Cores", "20 Threads", "5.1 GHz Turbo Boost"],
       "manufacturer": "Intel",
       "category": "Processors",
+      "stock": 15,
+      "price": 400,
       "images": [
         "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i5-13600k-hero-01.png",
         "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i5-13600k-hero-02.png"
@@ -360,6 +406,8 @@
       "features": ["6 Cores", "12 Threads", "4.7 GHz Max Boost"],
       "manufacturer": "AMD",
       "category": "Processors",
+      "stock": 30,
+      "price": 300,
       "images": [
         "https://www.amd.com/system/files/2022/11/amd-ryzen-5-7600x-1.png",
         "https://www.amd.com/system/files/2022/11/amd-ryzen-5-7600x-2.png"
@@ -372,6 +420,8 @@
       "features": ["16 Cores", "24 Threads", "5.4 GHz Turbo Boost"],
       "manufacturer": "Intel",
       "category": "Processors",
+      "stock": 25,
+      "price": 650,
       "images": [
         "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i7-13700k-hero-01.png",
         "https://www.intel.com/content/dam/www/central-libraries/us/en/images/core-i7-13700k-hero-02.png"
@@ -384,6 +434,8 @@
       "features": ["Mid Tower", "Tempered Glass", "Cable Management"],
       "manufacturer": "NZXT",
       "category": "PC case",
+      "stock": 10,
+      "price": 350,
       "images": [
         "https://www.nzxt.com/images/harper/h510_white/1.jpg",
         "https://www.nzxt.com/images/harper/h510_white/2.jpg"
@@ -396,6 +448,8 @@
       "features": ["Mid Tower", "Mesh Front Panel", "Excellent Airflow"],
       "manufacturer": "Fractal Design",
       "category": "PC case",
+      "stock": 5,
+      "price": 400,
       "images": [
         "https://www.fractal-design.com/wp-content/uploads/2017/07/meshify-c_black_2.png",
         "https://www.fractal-design.com/wp-content/uploads/2017/07/meshify-c_black_1.png"
@@ -408,6 +462,8 @@
       "features": ["Mid Tower", "High Airflow", "Modern Design"],
       "manufacturer": "Corsair",
       "category": "PC case",
+      "stock": 50,
+      "price": 350,
       "images": [
         "https://www.corsair.com/medias/sys_master/images/images/hfc/hf1/8845123930266/4000D-AIRFLOW-3.png",
         "https://www.corsair.com/medias/sys_master/images/images/h45/hf7/8845123930266/4000D-AIRFLOW-1.png"
@@ -420,6 +476,8 @@
       "features": ["Mid Tower", "ARGB Lighting", "Tempered Glass"],
       "manufacturer": "Phanteks",
       "category": "PC case",
+      "stock": 50,
+      "price": 250,
       "images": [
         "https://www.phanteks.com/Products/Case/Eclipse/P400A/2.png",
         "https://www.phanteks.com/Products/Case/Eclipse/P400A/1.png"
@@ -432,6 +490,8 @@
       "features": ["Mid Tower", "Dual Chamber", "Tempered Glass Panels"],
       "manufacturer": "Lian Li",
       "category": "PC case",
+      "stock": 25,
+      "price": 150,
       "images": [
         "https://www.lian-li.com/wp-content/uploads/2020/02/pc-o11-dynamic-3.png",
         "https://www.lian-li.com/wp-content/uploads/2020/02/pc-o11-dynamic-2.png"
@@ -444,6 +504,8 @@
       "features": ["650W", "80 Plus Gold", "Fully Modular"],
       "manufacturer": "EVGA",
       "category": "Power supply",
+      "stock": 30,
+      "price": 500,
       "images": [
         "https://www.evga.com/products/images/gpu/220-G5-0650-X1/220-G5-0650-X1_01.jpg",
         "https://www.evga.com/products/images/gpu/220-G5-0650-X1/220-G5-0650-X1_02.jpg"
@@ -456,6 +518,8 @@
       "features": ["750W", "80 Plus Gold", "Fully Modular"],
       "manufacturer": "Corsair",
       "category": "Power supply",
+      "stock": 15,
+      "price": 600,
       "images": [
         "https://www.corsair.com/medias/sys_master/images/images/h62/h3b/8843282184582/RM750x_2.png",
         "https://www.corsair.com/medias/sys_master/images/images/h36/h8e/8843282184582/RM750x_1.png"
@@ -468,6 +532,8 @@
       "features": ["650W", "80 Plus Gold", "Fully Modular"],
       "manufacturer": "Seasonic",
       "category": "Power supply",
+      "stock": 16,
+      "price": 450,
       "images": [
         "https://seasonic.com/wp-content/uploads/2021/04/Focus-GX-650-1.jpg",
         "https://seasonic.com/wp-content/uploads/2021/04/Focus-GX-650-2.jpg"
@@ -480,6 +546,8 @@
       "features": ["750W", "80 Plus Platinum", "Fully Modular"],
       "manufacturer": "Be Quiet!",
       "category": "Power supply",
+      "stock": 5,
+      "price": 700,
       "images": [
         "https://www.bequiet.com/image/product/straight_power_11_750w/1.jpg",
         "https://www.bequiet.com/image/product/straight_power_11_750w/2.jpg"
@@ -492,6 +560,8 @@
       "features": ["650W", "80 Plus Gold", "Fully Modular"],
       "manufacturer": "Thermaltake",
       "category": "Power supply",
+      "stock": 6,
+      "price": 500,
       "images": [
         "https://www.thermaltake.com/images/products/toughpower_gf1_650w_1.jpg",
         "https://www.thermaltake.com/images/products/toughpower_gf1_650w_2.jpg"
