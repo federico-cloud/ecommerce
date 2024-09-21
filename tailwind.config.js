@@ -23,6 +23,7 @@ module.exports = {
         monserrat: ['Montserrat', 'sans-serif'],
         bebas:     ['Bebas Neue', 'sans-serif'],
         lato:      ['Lato', 'system-ui'],
+        oswald:    ['Oswald', 'system-ui']
       },
     },
   },
