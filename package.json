@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "build:css": "tailwindcss -i ./src/index.css -o ./dist/output.css --watch",
     "docs": "jsdoc -c jsdoc.json",
-    "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix"
+    "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
+    "server": "npx json-server db.json"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.56.2",
